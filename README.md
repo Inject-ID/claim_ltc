@@ -1,2 +1,2 @@
-# cliam_ltc
+# claim_ltc
 Claim ltc
